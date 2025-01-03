@@ -5,6 +5,7 @@ const TaskList = ({ tasks, onEdit, onDelete }) => {
     <table>
       <thead>
         <tr>
+          <th>Sl. No</th>
           <th>Title</th>
           <th>Description</th>
           <th>Status</th>
